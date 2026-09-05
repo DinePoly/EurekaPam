@@ -12,7 +12,7 @@ const byte BUZZER = 10;
 const unsigned long EASY_TIME = 2000;
 const unsigned long MEDIUM_TIME = 1500;
 const unsigned long HARD_TIME = 1000;
-const unsigned long IMPOSSIBLE_TIME = 750;
+const unsigned long IMPOSSIBLE_TIME = 700;
 
 
 const unsigned long COMBINATION_WINDOW = 150;
