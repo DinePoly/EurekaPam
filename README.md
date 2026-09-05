@@ -14,15 +14,15 @@ Them Features
 
 The pins
 
-| Component     | Pin |
+Component     Pin
 
-| Red LED       |  D2 |
-| Green LED     |  D3 |
-| Yellow LED    |  D4 |
-| Red Button    |  D6 |
-| Green Button  |  D7 |
-| Yellow Button |  D8 |
-| Buzzer        | D10 |
+Red LED - D2 
+Green LED -D3 
+Yellow LED - D4
+Red Button - D6
+Green Button - D7
+Yellow Button - D8
+Buzzer - D10
 
 How to Play
 
